@@ -1,5 +1,4 @@
-source 'http://gems.local.twitter.com'
-source :rubygems
+source "http://rubygems.org"
 
 gem 'jeweler'
 gem 'mysql'

@@ -1,4 +1,4 @@
-= gizzmo
+= gizzmo {<img src="https://secure.travis-ci.org/twitter/gizzmo.png" />}[http://travis-ci.org/twitter/gizzmo]
 
 Gizzmo is a command-line client for managing gizzard clusters.
 
